@@ -1,0 +1,9 @@
+[submodule "webui"]
+	path = webui
+	url = https://github.com/posidron/opulus-webui
+[submodule "cli"]
+	path = cli
+	url = https://github.com/posidron/opulus-app
+[submodule "azure-function"]
+	path = azure-function
+	url = https://github.com/posidron/opulus-function
